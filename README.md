@@ -1,1 +1,2 @@
 # Credit-Card-Transaction-Fraud-Model
+The aim of this project is to develop a machine learning model to detect fraudulent transactions and estimate the potential savings from deploying the model. A False Discovery Rate of 3% will be used for out-of-time transactions to evaluate the performance of the models and select the best one. The estimated savings from deploying the model will be calculated based on the reduction in fraudulent transactions detected and the associated financial losses prevented
